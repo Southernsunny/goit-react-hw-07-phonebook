@@ -8,12 +8,6 @@ export const Container = styled.div`
   gap: 10px;
 `;
 
-export const Total = styled.span`
-  padding: 5px;
-  border: 1px solid #e46c39;
-  border-radius: 15px;
-`;
-
 export const List = styled.ul`
   display: flex;
   flex-direction: column;

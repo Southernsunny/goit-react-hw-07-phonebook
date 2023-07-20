@@ -24,3 +24,9 @@ export const Input = styled.input`
     scale: 1.1;
   }
 `;
+
+export const Total = styled.span`
+  padding: 5px;
+  border: 1px solid #e46c39;
+  border-radius: 15px;
+`;
